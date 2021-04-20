@@ -2,7 +2,6 @@
 Facebook Cracker v2.0
 By Rule Breakers
 Prabin Gaire 
-shishir Timilsina
 
 # How to install
 $ pkg install python2 git <br>
